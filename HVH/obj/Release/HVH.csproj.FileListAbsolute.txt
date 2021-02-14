@@ -1,0 +1,7 @@
+C:\Users\SjorM\Desktop\HVH-Mod.dll
+C:\Users\SjorM\Desktop\HVH-Mod.pdb
+C:\Users\SjorM\Desktop\HVH-Mod\HVH-Mod\PureCheat\obj\Release\HVH.csprojAssemblyReference.cache
+C:\Users\SjorM\Desktop\HVH-Mod\HVH-Mod\PureCheat\obj\Release\HVH.csproj.CoreCompileInputs.cache
+C:\Users\SjorM\Desktop\HVH-Mod\HVH-Mod\PureCheat\obj\Release\HVH-Mod.dll
+C:\Users\SjorM\Desktop\HVH-Mod\HVH-Mod\PureCheat\obj\Release\HVH-Mod.pdb
+C:\Users\SjorM\Desktop\HVH-Mod\HVH-Mod\PureCheat\obj\Release\HVH.csproj.CopyComplete
